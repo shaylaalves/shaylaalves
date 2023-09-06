@@ -2,9 +2,7 @@
 
 
 
-. 🔭 Hoje estudo ciência da computação - unversidade federal do tocantins 
-. 🌱 Estudando Javascript básico
-. 😄 Pronouns: ela/dela
+- Hoje estudo ciência da computação - unversidade federal do tocantins 
 
 
 <div style="display: inline_block"><br>
