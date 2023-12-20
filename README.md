@@ -2,7 +2,7 @@
 
 
 
-- Hoje estudo ciência da computação - unversidade federal do tocantins 
+- Ciência da Computação - Unversidade Federal do Tocantins 
 
 
 <div style="display: inline_block"><br>
