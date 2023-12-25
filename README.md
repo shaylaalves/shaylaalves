@@ -10,7 +10,7 @@
  [![Instagram](https://img.shields.io/badge/-shayla.thammy-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/idk.sshay)
  [![Gmail](https://img.shields.io/badge/-shayla.thammy-white?style=for-the-badge&logo=Gmail&logoColor=red&link=mailto:shaylalee74@gmail.com)](mailto:shaylalee74@gmail.com) 
 
-<h3> 🛠 Minhas Ferramentas: </h3>
+<h3> 🛠 Minhas ferramentas: </h3>
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
