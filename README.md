@@ -5,7 +5,7 @@
 - Comecei na área de tecnologia por causa da minha paixão por IA, mas após iniciar a faculdade, comecei a explorar a área de UI/UX Design e agora estou empenhada em me tornar uma desenvolvedora Front-End, pois gosto muito de lidar com a interação com o usuário e o desenvolvimento de interfaces. 
 <br>
 
- <h3>⚡ Onde me encontrar</h3>
+<h3>⚡Onde me encontrar: </h3>
  
  [![Instagram](https://img.shields.io/badge/-shayla.thammy-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/idk.sshay)
  [![Gmail](https://img.shields.io/badge/-shayla.thammy-white?style=for-the-badge&logo=Gmail&logoColor=red&link=mailto:shaylalee74@gmail.com)](mailto:shaylalee74@gmail.com) 
