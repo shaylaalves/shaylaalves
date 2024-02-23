@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDdiNTNkZWM3NTg2ZWE3Mjg1ZDVmZDU3Y2Q2NTBlYTY5ZWQwZGRmYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"> [![Typing Animation](https://readme-typing-svg.herokuapp.com?color=DBB6EEFF&size=28&duration=7200&center=true&vCenter=true&width=1000&lines=Oi!+Sou+a+Shayla+Thammy+💻🤠;Seja+bem+vindo(a)!;Sou+estudante+de+Ciência+da+Computação;)](https://git.io/typing-svg)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDdiNTNkZWM3NTg2ZWE3Mjg1ZDVmZDU3Y2Q2NTBlYTY5ZWQwZGRmYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"> [![Typing Animation](https://readme-typing-svg.herokuapp.com?color=DBB6EEFF&size=28&duration=7200&center=true&vCenter=true&width=1000&lines=Oi!+Sou+a+Shayla+Alves+💻🤠;Seja+bem+vindo(a)!;Sou+estudante+de+Ciência+da+Computação;)](https://git.io/typing-svg)
 
 
 - 📚 Ciência da Computação na [Universidade Federal do Tocantins - UFT](https://ww2.uft.edu.br//)
