@@ -2,7 +2,7 @@
 
 
 - 📚 Ciência da Computação na [Universidade Federal do Tocantins - UFT](https://ww2.uft.edu.br//)
-- Comecei na área de tecnologia por causa da minha paixão por IA, mas após iniciar a faculdade, comecei a explorar a área de UI/UX Design e agora estou empenhada em me tornar uma desenvolvedora Front-End, pois gosto muito de lidar com a interação com o usuário e o desenvolvimento de interfaces. 
+  
 <br>
 
 <h3>⚡Onde me encontrar: </h3>
