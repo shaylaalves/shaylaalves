@@ -7,8 +7,7 @@
 
 <h3>⚡Onde me encontrar: </h3>
  
- [![Instagram](https://img.shields.io/badge/-shayla.thammy-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/idk.sshay)
- [![Gmail](https://img.shields.io/badge/-shayla.thammy-white?style=for-the-badge&logo=Gmail&logoColor=red&link=mailto:shaylalee74@gmail.com)](mailto:shaylalee74@gmail.com) 
+ [![Gmail](https://img.shields.io/badge/-shayla.alves-white?style=for-the-badge&logo=Gmail&logoColor=red&link=mailto:shaylalee74@gmail.com)](mailto:shaylalee74@gmail.com) 
 
 <h3> 🛠 Minhas ferramentas: </h3>
 
