@@ -1,4 +1,4 @@
-<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDdiNTNkZWM3NTg2ZWE3Mjg1ZDVmZDU3Y2Q2NTBlYTY5ZWQwZGRmYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/lGhBlBMIN2XsEteTN3/giphy.gif](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)" 
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)" 
 
 - 📚 Ciência da Computação na [Universidade Federal do Tocantins - UFT](https://ww2.uft.edu.br//)
   
