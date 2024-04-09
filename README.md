@@ -1,7 +1,6 @@
 - 📚 Ciência da Computação na [Universidade Federal do Tocantins - UFT](https://ww2.uft.edu.br//)
   
 <br>
-
 <h3>⚡Onde me encontrar: </h3>
  
  [![Gmail](https://img.shields.io/badge/-shayla.alves-white?style=for-the-badge&logo=Gmail&logoColor=red&link=mailto:shaylalee74@gmail.com)](mailto:shaylalee74@gmail.com) 
