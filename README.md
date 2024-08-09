@@ -1,7 +1,10 @@
 <img src="https://media.tenor.com/c56mUPIqFyUAAAAi/hello-kitty.gif" width="150" alt="Hello kitty"/>
 
-- 📚 Ciência da Computação na [Universidade Federal do Tocantins - UFT](https://ww2.uft.edu.br//)
-  
+:3
+
+about me:
+- she/her, brazilian
+- computer science student
 <br>
 <h3>⚡Onde me encontrar: </h3>
  
