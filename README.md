@@ -1,4 +1,4 @@
-![Alt Text]([https://tenor.com/eo5EMa5ZcgK.gif](https://media.tenor.com/c56mUPIqFyUAAAAi/hello-kitty.gif))
+![Alt Text]([https://tenor.com/eo5EMa5ZcgK.gif](https://media.tenor.com/c56mUPIqFyUAAAAi/hello-kitty.gif)
 
 
 - 📚 Ciência da Computação na [Universidade Federal do Tocantins - UFT](https://ww2.uft.edu.br//)
