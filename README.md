@@ -1,7 +1,5 @@
 <img src="https://media.tenor.com/c56mUPIqFyUAAAAi/hello-kitty.gif" width="150" alt="Hello kitty"/>
 
-:3
-
 about me:
 - she/her, brazilian
 - computer science student
