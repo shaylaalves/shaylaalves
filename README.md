@@ -1,5 +1,4 @@
-![Hello kitty](https://media.tenor.com/c56mUPIqFyUAAAAi/hello-kitty.gif)
-
+<img src="https://media.tenor.com/c56mUPIqFyUAAAAi/hello-kitty.gif" width="300" alt="Hello kitty"/>
 
 - 📚 Ciência da Computação na [Universidade Federal do Tocantins - UFT](https://ww2.uft.edu.br//)
   
