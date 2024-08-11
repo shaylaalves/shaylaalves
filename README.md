@@ -2,7 +2,7 @@
   <tr>
     <td style="width: 50%;">
      <img 
-      scr="https://github.com/shaylaalves/shaylaalves/blob/main/asuka.png"
+      src="https://github.com/shaylaalves/shaylaalves/blob/main/asuka.png"
       alt="Asuka" style="width: 200%;
       border: none;"/>
     </td>
