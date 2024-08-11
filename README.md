@@ -28,8 +28,8 @@
      |   |__ javascript.js
      |
      |__ learning
-        |__ java.
-        |__ python.py
-        |__ pascal.pas
+         |__ java.
+         |__ python.py
+         |__ pascal.pas
   </tr>
 </table>
