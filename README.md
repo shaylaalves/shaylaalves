@@ -19,7 +19,6 @@
      |
      |__os
      |  |___ linux.txt
-     |  |___ kali_linux
      |  |___ Windows.txt
      |       |___ Windows 11
      |
